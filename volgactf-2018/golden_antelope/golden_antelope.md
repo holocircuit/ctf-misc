@@ -32,4 +32,6 @@ Interesting observation: We can tap "for free". We only lose a point if we actua
 
 ## Cracking
 See `soln.py` for the solution. 
+I was too lazy to automate this. It expects you to feed it numbers one-by-one - when it's got enough, it prints out the next part of the stream.
 
+`proof_of_work.py` does the proof-of-work step.
